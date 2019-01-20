@@ -6,4 +6,4 @@ Usage
 -----
 
 * Change the variables RECEIVER, MAIL, PWD to your own and change the hour of the day you want the mail
-* Run it with pythonw public_ip_to_mail.pyw (It runs in background) - (./public_ip_to_mail on linux probably)
+* Run it with pythonw public_ip_to_mail.pyw (It runs in background) - (./public_ip_to_mail.pyw on linux probably)
