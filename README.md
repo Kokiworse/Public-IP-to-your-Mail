@@ -1,6 +1,6 @@
 # IP TO MAIL
 
-Small script that retrieve your public ip address and send it to an email
+Small script that retrieves your public ip address and send it to an email
 
 Usage
 -----
